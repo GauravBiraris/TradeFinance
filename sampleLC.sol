@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.13;
 
-contract MyFinLC{
+contract MyLetterOfCredit{
     uint Credit = 3850030975442828281;
     uint Fees = 2390500000; 
     uint Expense = 239095000;
